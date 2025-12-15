@@ -14,7 +14,7 @@ Shuqin Zhang, Kaiyu Li, Xueqing Wang, Yuanqing Xia
 <details close>
 <summary><b>WDCFNet Graphical Abstract:</b></summary>
 
-![image0](.\images\graphicalabstract.png)
+![results0](.\images\graphicalabstract.png)
 
 </details>
 
@@ -24,6 +24,7 @@ Shuqin Zhang, Kaiyu Li, Xueqing Wang, Yuanqing Xia
 ## Visual Comparison  
 <details close>
 <summary><b>LOL-v1, LOL-v2-real, and LOL-v2-synthetic:</b></summary>
+    
 ![results1](./images/LOLv1.png)
 
 ![results2](./images/LOLv2.png)
