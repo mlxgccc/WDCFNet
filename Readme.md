@@ -9,19 +9,19 @@ Shuqin Zhang, Kaiyu Li, Xueqing Wang, Yuanqing Xia
 
 
 
-## Proposed WDCFNet ⚙ 
+## Proposed WDCFNet 
 
 <details close>
 <summary><b>WDCFNet Graphical Abstract:</b></summary>
 
-![image-20251215120613651](.\images\graphical abstract.png)
+![image0](.\images\graphicalabstract.png)
 
 </details>
 
 
 
 
-## Visual Comparison 🖼 
+## Visual Comparison  
 <details close>
 <summary><b>LOL-v1, LOL-v2-real, and LOL-v2-synthetic:</b></summary>
 ![results1](./images/LOLv1.png)
@@ -46,7 +46,7 @@ Shuqin Zhang, Kaiyu Li, Xueqing Wang, Yuanqing Xia
 
 </details>
 
-## Weights and Results 🧾
+## Weights and Results 
 All the weights that we trained on different datasets is available at [[Baidu Pan](https://pan.baidu.com/s/1sJIkX2-4OU_gfcGmlhIREQ?pwd=YT42)] (code: `YT42`) .  
 
 <details close>
@@ -108,7 +108,7 @@ You can refer to the following links to download the datasets.
 
 </details>
 
-## 2. Testing 🌒
+## 2. Testing 
 
 
 Download our weights from [[Baidu Pan](https://pan.baidu.com/s/1sJIkX2-4OU_gfcGmlhIREQ?pwd=YT42)] (code: `YT42`) and put them in folder `weights`:
@@ -205,7 +205,7 @@ python measure_niqe_bris.py --DICM
 python train.py --dataset lol_v1
 ```
 
-## 4. Contacts 🌔
+## 4. Contacts 
 
 If you have any questions, please contact us or submit an issue to the repository!
 
