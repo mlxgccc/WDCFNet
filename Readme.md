@@ -14,7 +14,7 @@ Shuqin Zhang, Kaiyu Li, Xueqing Wang, Yuanqing Xia
 <details close>
 <summary><b>WDCFNet Graphical Abstract:</b></summary>
 
-![results0](.\images\graphicalabstract.png)
+![results0](./images/graphicalabstract.png)
 
 </details>
 
@@ -41,7 +41,6 @@ Shuqin Zhang, Kaiyu Li, Xueqing Wang, Yuanqing Xia
 
 <details close>
 <summary><b>DICM, LIME, MEF, and VV:</b></summary>
-
 
 ![results4](./images/unpair.png)
 
